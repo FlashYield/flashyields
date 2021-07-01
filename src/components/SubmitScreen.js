@@ -10,6 +10,7 @@ function SubmitScreen(props) {
   const [isExecuteBtnDisabled, setExecuteDisabled] = useState(true);
   const onInitiate = () => {
     setBtnErr("");
+
     if (props?.loanData?.amount >= 25)
       window.web3.eth.sendTransaction(
         {
