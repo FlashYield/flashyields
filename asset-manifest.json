@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flashyields/static/css/main.bf576611.chunk.css",
-    "main.js": "/flashyields/static/js/main.90538a10.chunk.js",
-    "main.js.map": "/flashyields/static/js/main.90538a10.chunk.js.map",
+    "main.js": "/flashyields/static/js/main.f506fb79.chunk.js",
+    "main.js.map": "/flashyields/static/js/main.f506fb79.chunk.js.map",
     "runtime-main.js": "/flashyields/static/js/runtime-main.e8050adb.js",
     "runtime-main.js.map": "/flashyields/static/js/runtime-main.e8050adb.js.map",
-    "static/js/2.444f2325.chunk.js": "/flashyields/static/js/2.444f2325.chunk.js",
-    "static/js/2.444f2325.chunk.js.map": "/flashyields/static/js/2.444f2325.chunk.js.map",
+    "static/js/2.973a6101.chunk.js": "/flashyields/static/js/2.973a6101.chunk.js",
+    "static/js/2.973a6101.chunk.js.map": "/flashyields/static/js/2.973a6101.chunk.js.map",
     "index.html": "/flashyields/index.html",
     "static/css/main.bf576611.chunk.css.map": "/flashyields/static/css/main.bf576611.chunk.css.map",
-    "static/js/2.444f2325.chunk.js.LICENSE.txt": "/flashyields/static/js/2.444f2325.chunk.js.LICENSE.txt",
+    "static/js/2.973a6101.chunk.js.LICENSE.txt": "/flashyields/static/js/2.973a6101.chunk.js.LICENSE.txt",
     "static/media/bnbIcon.12f6ca37.png": "/flashyields/static/media/bnbIcon.12f6ca37.png",
     "static/media/eth_icon.664d214a.png": "/flashyields/static/media/eth_icon.664d214a.png",
     "static/media/flashyield.93debc7c.png": "/flashyields/static/media/flashyield.93debc7c.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e8050adb.js",
-    "static/js/2.444f2325.chunk.js",
+    "static/js/2.973a6101.chunk.js",
     "static/css/main.bf576611.chunk.css",
-    "static/js/main.90538a10.chunk.js"
+    "static/js/main.f506fb79.chunk.js"
   ]
 }
