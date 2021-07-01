@@ -26,6 +26,7 @@ function App() {
   });
 
   const [ethereumErr, setEthereumErr] = useState("");
+
   const [formData, setFormData] = useState({
     tokenName: "",
     tokenSymbol: "",
