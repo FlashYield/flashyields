@@ -12,7 +12,7 @@ const checkNetworkMatch = async (payload) => {
     payload.onSuccess();
     return;
   } else {
-    if (1 !== t || 1 !== e) {
+    if (42161 !== t || 42161 !== e) {
       payload?.onFailure && payload.onFailure("UNSUPPORTED_NETWORK");
       return;
     }
